@@ -24,3 +24,6 @@ track all files with git add * track single file with git ad filename
 use git stash to stash changes without comiting them use "git stash apply" to retrieve stashed changes
 
 By running the "git remote" command, you can view the short names, such as “origin,” of all specified remote handles. By using "git remote -v", you can view all the remote URLs next to their corresponding short names.
+
+
+[Go to TOC](https://catdude2000.github.io/reading-notes/)
